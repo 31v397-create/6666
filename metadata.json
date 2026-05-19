@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home Hub",
+  "description": "A comprehensive smart home control application for music, environmental monitoring, and reminders.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
